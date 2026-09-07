@@ -1,0 +1,27 @@
+{
+  "name": "sicvscode",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kvrimmmm/Team11-SIC-Lab-5-SEP-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kvrimmmm/Team11-SIC-Lab-5-SEP-/issues"
+  },
+  "homepage": "https://github.com/Kvrimmmm/Team11-SIC-Lab-5-SEP-#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
