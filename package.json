@@ -5,6 +5,9 @@
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "express": "^4.22.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb-memory-server": "^11.2.0",
+    "mongoose": "^9.9.5",
     "validator": "^13.15.35"
   },
   "description": "",
